@@ -1,0 +1,8 @@
+what is cloud storage ?
+cloud storage is a remote storage space which allow us to store our files remotly
+this storage place allows us to access us data from anywhere and from any device 
+
+
+pip3 install dropbox
+
+howdoi upload files to dropbox using python
